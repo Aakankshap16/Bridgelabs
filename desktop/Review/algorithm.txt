@@ -1,0 +1,7 @@
+STEP 1: First we have to create 2 different folders in desktop.
+STEP 2: In folder1 again create 1 txt file and 1 sh file
+STEP 3: And in folder2 create 1 jpeg file 1 png file and 1 jpg file
+STEP 4: With the help of sh file we create new folder in desktop and in these
+        folder we create 3 sub files 2 sub files are empty and remaining 1sub
+        file contain file which contain by folder2
+           

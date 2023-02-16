@@ -1,0 +1,6 @@
+for item in `ls`
+do
+ file= echo $item | grep -v /
+  echo $file
+done
+ 
