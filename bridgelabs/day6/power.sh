@@ -1,13 +1,6 @@
-
-function is_power_of_two () {
-     n=$1
-    $(( n > 0 && (n & (n - 1)) == 0 ))
-}
-
-for number
+read -p "enter a number :- " n
+for (( i=0; i <= $n; i++ ))
 do
-    if is_power_of_two "$number"
-    then
-      echo  "$number"
-    fi
+      b=$((2**i))
+        echo $b
 done
